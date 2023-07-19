@@ -1,0 +1,17 @@
+.App {
+  display: flex;
+  justify-content: center;
+  align-items: center;ag
+}
+
+.mainContainer {
+  width: 70%;
+  background-color: white;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.imageDiv {
+  width: 100%;
+}
